@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"            "PS2 Murder Integration"
+	"version"         "1.00"
+	"up_date"         "02/27/16"
+	"author_name"     "Aragas (Pinkie Arg)"
+	"author_email"    ""
+	"author_url"      "https://github.com/Aragas"
+	"info"            "Pointshop 2 Murder Gamemode Integration"
+}

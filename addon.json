@@ -1,0 +1,13 @@
+{
+	"title" : "PS2 Murder Integration",
+	"type" : "tool",
+	"tags" : [ "fun", "roleplay" ],
+	"ignore" :
+	[
+		".gitignore",
+		".git*",
+		"*.txt",
+		"*.md",
+		"README.md",
+	]
+}
